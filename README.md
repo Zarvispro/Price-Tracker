@@ -1,1 +1,2 @@
 # Price-Tracker
+Price tracker is a tool or application that monitors the prices of products listed on various e-commerce websites. It automatically tracks price changes over time and alerts users when the price of a desired product falls below a specified threshold. This ensures that consumers can make informed purchasing decisions and never miss out on discounts or special offers.
