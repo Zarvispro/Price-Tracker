@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests='2.25.1'
+beautifulsoup4='4.9.3'
+schedule='1.1.0'
+plyer='2.0.0'
+pyobjus='*'
+pync='*'
+flask='*'
+sqlalchemy='*'
+flask-sqlalchemy='*'
+
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.6"
